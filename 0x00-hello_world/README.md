@@ -1,1 +1,1 @@
-0x00-hello_world
+task 0x00-hello_world
