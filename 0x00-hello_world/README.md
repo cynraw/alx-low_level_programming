@@ -1,1 +1,1 @@
-task 0x00-hello_world
+Task 6-size.c
